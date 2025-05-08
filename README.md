@@ -2,8 +2,11 @@
 ---
 
 ## 📸 Screenshot 
+![Screenshot 2025-05-08 at 5 47 52 PM](https://github.com/user-attachments/assets/02383a91-8d34-4cdc-8959-995b749358e9)
+![Screenshot 2025-05-08 at 5 47 59 PM](https://github.com/user-attachments/assets/c31f458e-bdb7-4411-af7b-7289bb831949)
+![Screenshot 2025-05-08 at 5 48 09 PM](https://github.com/user-attachments/assets/e73ff9ba-5d90-49c8-a0b3-3fa496f6033f)
 
-Include screenshots of both components if needed, for better visualization.
+
 
 ---
 
