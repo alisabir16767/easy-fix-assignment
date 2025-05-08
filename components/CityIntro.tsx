@@ -11,7 +11,6 @@ const CityIntro = () => {
 
   return (
     <div className="relative min-h-screen overflow-hidden bg-violet-50">
-      {/* Optional pattern overlay */}
       <div
         className="absolute top-0 left-0 w-full h-full z-0 opacity-10"
         style={{
@@ -20,10 +19,8 @@ const CityIntro = () => {
         }}
       />
 
-      {/* Main Content */}
       <div className="relative z-10 min-h-screen flex flex-col lg:flex-row items-center justify-center px-6 py-12 sm:px-10 lg:px-20 gap-10">
         
-        {/* Left: Text Content */}
         <div className="flex-1 text-center lg:text-left">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-semibold mb-4 text-[#000000]">
             Welcome to{" "}
@@ -47,7 +44,6 @@ const CityIntro = () => {
             for quick AC servicing even during the scorching Tamil Nadu summers.
           </p>
           <div className="flex flex-row flex-wrap gap-4 items-center justify-center sm:justify-start">
-  {/* Book Now Button */}
   <motion.button
     whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.95 }}
@@ -57,7 +53,6 @@ const CityIntro = () => {
     <i className="bi bi-calendar-check me-2"></i> Book Now
   </motion.button>
 
-  {/* Contact Us Button with Custom Gradient */}
   <motion.button
     whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.95 }}
@@ -75,9 +70,7 @@ const CityIntro = () => {
         </div>
         
 
-        {/* Right: Image */}
         <div className="flex-1 relative">
-  {/* Image */}
   <motion.img
     src="https://plus.unsplash.com/premium_photo-1682126012378-859ca7a9f4cf?w=800&q=80"
     alt="AC Image"
@@ -94,13 +87,13 @@ const CityIntro = () => {
       scale: 0.98
     }}
     animate={{
-      scale: [1, 1.05, 1], // Breathing effect: slowly scale up and down
+      scale: [1, 1.05, 1], 
     }}
     transition={{
-      repeat: Infinity, // Repeat infinitely
-      repeatType: "reverse", // Reverse back and forth for breathing effect
-      duration: 2, // Duration of one breathing cycle
-      ease: "easeInOut", // Smooth easing
+      repeat: Infinity,
+      repeatType: "reverse",
+      duration: 2, 
+      ease: "easeInOut",
     }}
   />
   

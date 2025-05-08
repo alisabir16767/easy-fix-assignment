@@ -20,7 +20,7 @@ export default function BlogOne() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.2 }}
       >
-        In Karaikudi's intense summer heat, it's essential to keep your air conditioner
+        In Karaikudis intense summer heat, its essential to keep your air conditioner
         in top condition. Below are some of the most frequent issues residents face during
         the hottest months — and how to avoid them.
       </motion.p>
@@ -60,7 +60,7 @@ export default function BlogOne() {
           transition={{ duration: 0.6, delay: 0.7 }}
         >
           Air filters trap dust and dirt, but if not cleaned regularly, they block airflow and
-          reduce efficiency. It's recommended to clean or replace filters monthly during peak use.
+          reduce efficiency. Its recommended to clean or replace filters monthly during peak use.
         </motion.p>
 
         <motion.h2

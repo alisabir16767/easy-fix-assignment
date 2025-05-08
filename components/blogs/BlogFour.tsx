@@ -54,7 +54,7 @@ export default function BlogFour() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: 0.7 }}
         >
-          Most Daikin ACs come with a timer feature, which allows you to set your AC to turn on and off automatically. This ensures that you are not wasting energy when you don't need cooling.
+          Most Daikin ACs come with a timer feature, which allows you to set your AC to turn on and off automatically. This ensures that you are not wasting energy when you donot need cooling.
         </motion.p>
 
         <motion.h2
@@ -88,7 +88,7 @@ export default function BlogFour() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: 1.1 }}
         >
-          If your Daikin AC doesn't have one, you can invest in a programmable thermostat. It can adjust the temperature based on your schedule, reducing energy consumption when you're not at home.
+          If your Daikin AC doesnot have one, you can invest in a programmable thermostat. It can adjust the temperature based on your schedule, reducing energy consumption when you are not at home.
         </motion.p>
 
         <motion.h2

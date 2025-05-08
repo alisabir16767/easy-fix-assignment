@@ -71,7 +71,7 @@ export default function BlogThree() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: 0.9 }}
         >
-          If your AC is blowing warm air instead of cold, it could be due to low refrigerant levels or a malfunctioning compressor. Don't delay in calling for repairs.
+          If your AC is blowing warm air instead of cold, it could be due to low refrigerant levels or a malfunctioning compressor. Donot delay in calling for repairs.
         </motion.p>
 
         <motion.h2

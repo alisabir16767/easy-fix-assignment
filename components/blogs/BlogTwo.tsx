@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { Button } from "../ui/button";
 
 export default function BlogTwo() {
   return (
@@ -128,6 +129,7 @@ export default function BlogTwo() {
         Don’t wait for your AC to break down — schedule regular servicing to keep it running efficiently and
         cool all summer long in Tamil Nadu!
       </motion.p>
+<Button>click me</Button>
     </div>
   );
 }
